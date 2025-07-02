@@ -66,11 +66,11 @@
 ## 참고 문헌
 
 - 안현주 외 (2024). 생성형 AI 기반 사용자 맞춤형 동화책 생성 및 구연 서비스.
-https://www.dbpia.co.kr/journal/articledetail?nodeid=node11862461
+  https://www.dbpia.co.kr/journal/articledetail?nodeid=node11862461
 - 정용태 외 (2024). 생성형 AI를 활용한 인터랙티브 동화책 생성 서비스.
-https://www.dbpia.co.kr/journal/articledetail?nodeid=node12025162
+  https://www.dbpia.co.kr/journal/articledetail?nodeid=node12025162
 - 박나연 외 (2023). 질문 유도를 통해 유아의 창의적 사고를 증진하는 인터랙티브 동화 콘텐츠.
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE116745862
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE116745862
 
 ---
 
